@@ -1,0 +1,22 @@
+{
+  "id": "9722a244-5595-4a35-aa71-f7cb555c057d",
+  "name": "BC365-Bank Account",
+  "publisher": "ClipDynamics",
+  "brief": "Manages de Company Bank Account on Cash Flow",
+  "description": "Specify the bank account in wich you will recieve customer payments. This will allow a better cash flow management",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://clipdynamics.com/privacyStatement",
+  "EULA": "http://clipdynamics.com/EULA",
+  "help": "http://clipdynamics.com/help",
+  "url": "http://clipdynamics.com",
+  "logo": "./logos/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.3.23590.23828",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
