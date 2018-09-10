@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC365-Bank Account">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 2990743809 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - CLE - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2380410731 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - Customer - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 413652016 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - GJL - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 990087746 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - SH - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 352391129 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - SI - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1555672164 - Field 2771695124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Bank Account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Comp. Bank Account - SCMH - Field Company Bank Account - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
